@@ -1,17 +1,4 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
 
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=gb2312">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="V5智能客服iOS客户端SDK接口（ver0.6_r0520）.files/filelist.xml">
-<link rel=Edit-Time-Data
-href="V5智能客服iOS客户端SDK接口（ver0.6_r0520）.files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
